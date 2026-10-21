@@ -25,10 +25,6 @@ Formo parte del **equipo de Data & Enablers** en Orange España, donde desarroll
 ## 📊 Estadísticas del trabajo (Orange)
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariadefatimarobledano&layout=compact&langs_count=10&theme=radical" alt="Lenguajes más usados en el trabajo">
-</p>
-
-<p align="center">
   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mariadefatimarobledano&theme=radical" alt="Resumen de actividad en el trabajo">
 </p>
 
